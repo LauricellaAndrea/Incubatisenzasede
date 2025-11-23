@@ -1,0 +1,5 @@
+{
+  "name": "Startup Geeks Landing",
+  "description": "Landing page for Startup Geeks incubator featuring interactive D3.js maps for team locations and incubated startups.",
+  "requestFramePermissions": []
+}
